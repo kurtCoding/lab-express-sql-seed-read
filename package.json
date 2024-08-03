@@ -2,7 +2,7 @@
   "name": "lab-express-sql-seed-read",
   "version": "1.0.0",
   "description": "Let's make our own music playlist app!",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
